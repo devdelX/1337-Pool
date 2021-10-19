@@ -1,0 +1,6 @@
+Credentials cache: API:97CF9634-978E-43AE-AD1A-04C8628CF37D
+        Principal: abel-oua@1337.MA
+
+  Issued                Expires               Principal
+Sep 22 15:06:48 2021  Sep 23 01:06:48 2021  krbtgt/1337.MA@1337.MA
+Sep 22 15:06:49 2021  Sep 23 01:06:48 2021  HTTP/iscsi.1337.ma@1337.MA
